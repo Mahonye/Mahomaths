@@ -23,16 +23,6 @@ A fun and interactive addition and subtraction application designed for Grade 1 
 | `icon.svg` | App icon |
 | `README.md` | This file |
 
-## How to Deploy (GitHub Pages)
-
-1. Create a new repository on [github.com](https://github.com)
-2. Upload **all files** from this zip to the repository
-3. Go to **Settings → Pages**
-4. Set source to **Deploy from a branch → main → / (root)** → Save
-5. Your live link: `https://yourusername.github.io/your-repo-name/`
-
-After the first visit, the app works with **no internet connection**.
-
 ## Installing as an App on Phone
 
 Once the site is live:
@@ -41,7 +31,7 @@ Once the site is live:
 
 ## Author
 
-**Mr Mahonye**
+Mr Mahonye
 
 ---
 
