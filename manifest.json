@@ -1,0 +1,18 @@
+{
+  "name": "Maho Maths",
+  "short_name": "Maho Maths",
+  "description": "Fun addition and subtraction for Grade 1 kids",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#a8edff",
+  "theme_color": "#4D96FF",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
